@@ -194,8 +194,8 @@ font-size:14px;
 }
 
 #jisc {
-width: 71px;
-height: 56px;
+width: 47px;
+height: 37px;
 background-image: url('../images/jisc-logo-small.png');
 background-repeat: no-repeat;
 display:inline-block;
@@ -206,8 +206,8 @@ display:inline-block;
 }
 
 #oii {
-width: 227px;
-height: 56px;
+width: 150px;
+height: 37px;
 background-image: url('../images/oii_text.png');
 background-repeat: no-repeat;
 display:inline-block;

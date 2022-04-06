@@ -10,7 +10,7 @@
   "text": {
     "more": "Los nodos representan obras teatrales (se puede ver el título haciendo clic en cada nodo) unidos según su cercanía estilística. Análisis realizado usando el árbol de consenso y la distancia Delta con el paquete de R, stylo (Eder, Rybicki y Kestemont, 2016), sobre un corpus de aproximadamente 700 obras y 50 autores, donde predominan Lope de Vega y Calderón. No es un corpus balanceado; el propósito es servir de ejemplo de análisis y visualización estilométricos. La visualización final usa el módulo Sigma de Gephi.",
     "intro": "Análisis estilométrico de unas 700 obras teatrales y unos 50 autores, por José Luis Losada Palenzuela, 2018.",
-    "title": "Red de Estilometría del teatro del Siglo de Oro"
+    "title": "Red de estilometría del teatro del Siglo de Oro"
   },
   "legend": {
     "edgeLabel": "Cercanía estilística",
